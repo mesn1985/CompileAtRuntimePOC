@@ -1,0 +1,10 @@
+C:\Users\MESN9888\source\repos\CompileAtRuntimePOC\DynamicCompiler\obj\Debug\netcoreapp3.1\DynamicCompiler.csproj.AssemblyReference.cache
+C:\Users\MESN9888\source\repos\CompileAtRuntimePOC\DynamicCompiler\obj\Debug\netcoreapp3.1\DynamicCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MESN9888\source\repos\CompileAtRuntimePOC\DynamicCompiler\obj\Debug\netcoreapp3.1\DynamicCompiler.AssemblyInfoInputs.cache
+C:\Users\MESN9888\source\repos\CompileAtRuntimePOC\DynamicCompiler\obj\Debug\netcoreapp3.1\DynamicCompiler.AssemblyInfo.cs
+C:\Users\MESN9888\source\repos\CompileAtRuntimePOC\DynamicCompiler\obj\Debug\netcoreapp3.1\DynamicCompiler.csproj.CoreCompileInputs.cache
+C:\Users\MESN9888\source\repos\CompileAtRuntimePOC\DynamicCompiler\bin\Debug\netcoreapp3.1\DynamicCompiler.deps.json
+C:\Users\MESN9888\source\repos\CompileAtRuntimePOC\DynamicCompiler\bin\Debug\netcoreapp3.1\DynamicCompiler.dll
+C:\Users\MESN9888\source\repos\CompileAtRuntimePOC\DynamicCompiler\bin\Debug\netcoreapp3.1\DynamicCompiler.pdb
+C:\Users\MESN9888\source\repos\CompileAtRuntimePOC\DynamicCompiler\obj\Debug\netcoreapp3.1\DynamicCompiler.dll
+C:\Users\MESN9888\source\repos\CompileAtRuntimePOC\DynamicCompiler\obj\Debug\netcoreapp3.1\DynamicCompiler.pdb
